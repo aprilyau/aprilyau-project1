@@ -126,11 +126,10 @@ header h2 {
 }
 
 .button {
-  display: block;
+  display: inline-block;
   font-family: 'karla-regular';
   text-transform: uppercase;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding: 20px;
   width: 100px;
   background-color: #e2574c;
   border-radius: 30px;
